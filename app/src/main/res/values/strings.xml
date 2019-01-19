@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokedex_number">Pokedex Number</string>
+    <string name="types">Types</string>
+    <string name="pokemon_tittle">Pokedex</string>
+    <string name="no_connection_error">There\'s no connection to a network</string>
+    <string name="more_than_twelve_hours_refresh">Han pasado más de 12 horas, actualizando data automáticamente</string>
+    <string name="request_error">There was an error with your request</string>
+    <string name="updated_data">Data have been updated</string>
+
+</resources>
